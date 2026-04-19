@@ -24,6 +24,7 @@ mlartifacts/
 # DVC 내부 캐시 및 로컬 설정
 .dvc/cache
 .dvc/tmp
+.dvc/config
 .dvc/config.local
 
 # --- IDE 및 시스템 관련 ---
